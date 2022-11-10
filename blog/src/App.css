@@ -7,6 +7,25 @@
   pointer-events: none;
 }
 
+body {
+  font-family: 'nanumsquare';
+}
+
+.black-nav {
+  background: #000;
+  width: 100%;
+  display: flex;
+  color: #fff;
+  padding: 20px;
+  font-weight: 600;
+  font-size: 20px;
+}
+.black-nav div {display: flex; align-self: center;}
+.logoImage {width: 5%; }
+
+.list {margin-top: 30px; text-align: left; padding-left: 20px; padding-right: 20px;}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
