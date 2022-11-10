@@ -1,5 +1,5 @@
 # React_daily
-react daily study log
+react daily learning log
 <br>
 source : 
 <br>
